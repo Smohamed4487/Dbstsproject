@@ -1,0 +1,9 @@
+com/in28minutes/springboot/web/model/Items.class
+com/in28minutes/springboot/web/model/repo/ItemRepository.class
+com/in28minutes/springboot/web/controller/HomeController.class
+com/in28minutes/springboot/web/controller/itemsController.class
+com/in28minutes/springboot/web/controller/GetProductsAPIController.class
+com/in28minutes/springboot/web/model/repo/ProductRepository.class
+com/in28minutes/springboot/web/controller/ProductsController.class
+com/in28minutes/springboot/web/model/Products.class
+com/in28minutes/springboot/web/SpringBootFirstWebApplication.class
